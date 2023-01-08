@@ -1,0 +1,33 @@
+h1{
+    background-color:hsl(216, 70%, 53%,0.8);
+
+    text-align: center;
+}
+h3{
+    font-size: 30px;
+    text-decoration: underline;
+}
+h4{
+    font-size: 25px;
+    
+}
+li{
+    font-size: 2em;
+    margin:20px 4px 4px 30px;
+}
+
+li a:hover{
+    color:rgb(20, 184, 85);
+}
+li a:visited{
+    color:rgb(206, 206, 10);
+}
+img{
+    display:block;
+    
+  
+    border: 2px solid black;
+}
+p{
+    font-size: 1.5em;
+}
